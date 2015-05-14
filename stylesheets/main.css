@@ -5650,7 +5650,6 @@ button.close {
   background-color: black;
   border-color: black;
   border: 1px 1px 30px 1px;
-  height: 60px;
   font-family: "ContrailOne-Regular";
   position: fixed;
   z-index: 10;
@@ -5749,6 +5748,10 @@ button.close {
 .Works {
   background-color: #2bb599;
   padding-top: 50px; }
+
+.row, .descripcion2-grid-system {
+  margin-right: 0px;
+  margin-left: 0px; }
 
 .svgcolor-light path {
   fill: #2bb599;
